@@ -1,7 +1,7 @@
 # Candy-crush-FLTK
 Academic project in c++
 
-##TODO
+## TODO
 
 Store all the file into different folder 
 
