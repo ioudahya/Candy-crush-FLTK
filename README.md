@@ -25,3 +25,7 @@ To launch, run the makefile.
 - After a few seconds, a movement suggestion is given to the player
 - Goal to pass a level
 
+## Image of the game
+
+![candy crush1](https://user-images.githubusercontent.com/44835548/208643321-327f9061-8b53-4461-88ac-2b62e1fa1e18.PNG)
+
